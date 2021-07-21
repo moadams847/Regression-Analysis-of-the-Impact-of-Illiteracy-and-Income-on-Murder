@@ -4,7 +4,7 @@ This projects looks at the Influence of Illiteracy and Income on Murder: A Regre
 
 ## Motivation
 
-I took up this project to strengthen my understanding of simple linear regression
+I took up this project to strengthen my understanding of simple linear regression.
 
 ## Installation
 
