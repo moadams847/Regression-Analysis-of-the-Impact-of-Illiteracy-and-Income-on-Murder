@@ -6,12 +6,15 @@ This projects looks the Influence of Illiteracy and Income on Murder: A Regressi
 
 I took up this project to strengthen my understanding of simple linear regression
 
+## Analysis
+
+Findings [Duck Duck Go](https://drive.google.com/file/d/1WiEdh8oqhNRmTaxAogD3SY8BW0ixok18/view?usp=sharing).
+
 ## Installation
 
 1. Clone Repo
-2. Install R 
+2. Install R
 3. Open the 'asign' file
-
 
 ## Tech/framework used
 
