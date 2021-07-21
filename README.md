@@ -8,7 +8,7 @@ I took up this project to strengthen my understanding of simple linear regressio
 
 ## Analysis
 
-[Findings](https://drive.google.com/file/d/1WiEdh8oqhNRmTaxAogD3SY8BW0ixok18/view?usp=sharing).
+[Findings of the project](https://drive.google.com/file/d/1WiEdh8oqhNRmTaxAogD3SY8BW0ixok18/view?usp=sharing)
 
 ## Installation
 
