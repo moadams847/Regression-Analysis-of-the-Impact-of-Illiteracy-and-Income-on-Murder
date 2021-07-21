@@ -1,10 +1,10 @@
 # Regression Analysis of the Impact of Illiteracy and Income on Murder.
 
-This projects looks the Influence of Illiteracy and Income on Murder: A Regression Analysis.
+This projects looks at the Influence of Illiteracy and Income on Murder: A Regression Analysis.
 
 ## Motivation
 
-I took up this project to strengthen my understanding of simple linear regression
+I took up this project to strengthen my understanding of simple linear regression.
 
 ## Analysis
 
