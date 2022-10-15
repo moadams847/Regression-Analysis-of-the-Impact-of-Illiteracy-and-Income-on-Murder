@@ -11,7 +11,7 @@ I took up this project to strengthen my understanding of simple linear regressio
 
 1. Clone Repo
 2. Install R
-3. Open the 'asign' file
+3. Open the 'regression-Analysis.R' file
 
 ## Tech/framework used
 
