@@ -7,10 +7,10 @@ data_set<- read.csv("state.csv",
                 stringsAsFactors = FALSE, header = T)
 
 data_df<-data_set
-head(data_df) #### peak at the first 5 observation
+head(data_df) #### peak at the first 5 observations
 
 #####2 ---------------------
-str(data_df) ### the struct of the data
+str(data_df) ### the structure of the data
 
 summary(data_df) ### summary statistics
 
@@ -37,9 +37,9 @@ par(mfrow=c(1,5))
 for(i in 1:5) {
   plot(density(data_df[,i]), main=names(data_df)[i])
 }
-### one feature has biomodal
+### one feature has a bimodal distribution
 ## the rest of the features are skewed
-## for algoruthms to perform well it will be good to transform the features
+## for the algorithms to perform well it will be good to transform the features
 
 
 ###  Box And Whisker Plots--------------
@@ -54,7 +54,7 @@ for(i in 1:5) {
 ### and rest of the features are all skewed
 
 #### Missing Plot-------------
-### the presense of missing values can have a  negeative impage on a model
+### the presense of missing values can have a  negeative impact on a model
 
 # load packages
 install.packages('Amelia')
@@ -106,7 +106,7 @@ correlations <- cor(data_df_one[,1:3])
 corrplot(correlations, method="circle")
 
 ### the bigger the circle the higher the correlation and vice versa
-#### the circles tells us that income is negatively correlated with murder.
+#### the circles tell us that income is negatively correlated with murder.
 ### also illiteracy rate is positively correlated with murder.
 
 ###### Scatterplot Matrix---------------------------------
@@ -153,13 +153,13 @@ confint(fit)
 ### and only  illteracy is significant
 
 ##### conclusion
-##illiteracy----  ## holding all other factors costant it is expected the a unit increase in
+##illiteracy----  ## holding all other factors costant it is expected that an increase in
 ### illteracy level will cause a increase in murder by 4.51 according to the model
 
 ##### income---- ## holding all other factors costant it is expected the a dollar increase in
 ### income will cause a increase in murder by 0.00057 according to the model
 
-#### only variable that explains the model is income but intercept and illteracy are all
+#### The only variable that explains the model is income but intercept and illteracy are all
 ### insignificant
 
 qf(0.05, 1, 47, lower.tail = F)
