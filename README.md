@@ -7,6 +7,11 @@ This projects looks at the Influence of Illiteracy and Income on Murder: A Regre
 I took up this project to strengthen my understanding of simple linear regression.
 
 
+## Notebook
+
+[Kaggle Notebook](https://www.kaggle.com/code/adamsmohammed/notebookfb369865c3/edit)
+
+
 ## Installation
 
 1. Clone Repo
