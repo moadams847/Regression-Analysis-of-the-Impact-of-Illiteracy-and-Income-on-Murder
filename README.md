@@ -1,4 +1,4 @@
-# Regression Analysis of the Impact of Illiteracy and Income on Murder.
+# Regression Analysis of US State Facts and Figures (state.x77) from R Dataset Package
 
 This projects looks at the Influence of Illiteracy and Income on Murder: A Regression Analysis.
 
