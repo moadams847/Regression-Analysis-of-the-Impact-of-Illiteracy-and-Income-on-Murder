@@ -9,7 +9,7 @@ I took up this project to strengthen my understanding of simple linear regressio
 
 ## Notebook
 
-[Kaggle Notebook](https://www.kaggle.com/code/adamsmohammed/notebookfb369865c3/edit)
+[URL(https://www.kaggle.com/code/adamsmohammed/notebookfb369865c3/edit)
 
 
 ## Installation
